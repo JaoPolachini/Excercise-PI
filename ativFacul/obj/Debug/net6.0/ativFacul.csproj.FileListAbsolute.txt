@@ -1,0 +1,15 @@
+C:\src\2022\activates\ativFacul\ativFacul\bin\Debug\net6.0\ativFacul.exe
+C:\src\2022\activates\ativFacul\ativFacul\bin\Debug\net6.0\ativFacul.deps.json
+C:\src\2022\activates\ativFacul\ativFacul\bin\Debug\net6.0\ativFacul.runtimeconfig.json
+C:\src\2022\activates\ativFacul\ativFacul\bin\Debug\net6.0\ativFacul.dll
+C:\src\2022\activates\ativFacul\ativFacul\bin\Debug\net6.0\ativFacul.pdb
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ativFacul.csproj.AssemblyReference.cache
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ativFacul.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ativFacul.AssemblyInfoInputs.cache
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ativFacul.AssemblyInfo.cs
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ativFacul.csproj.CoreCompileInputs.cache
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ativFacul.dll
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\refint\ativFacul.dll
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ativFacul.pdb
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ativFacul.genruntimeconfig.cache
+C:\src\2022\activates\ativFacul\ativFacul\obj\Debug\net6.0\ref\ativFacul.dll

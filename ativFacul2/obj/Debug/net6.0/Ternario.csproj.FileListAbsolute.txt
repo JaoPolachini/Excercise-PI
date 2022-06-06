@@ -1,0 +1,15 @@
+C:\src\2022\activates\ativFacul\ativFacul2\bin\Debug\net6.0\Ternario.exe
+C:\src\2022\activates\ativFacul\ativFacul2\bin\Debug\net6.0\Ternario.deps.json
+C:\src\2022\activates\ativFacul\ativFacul2\bin\Debug\net6.0\Ternario.runtimeconfig.json
+C:\src\2022\activates\ativFacul\ativFacul2\bin\Debug\net6.0\Ternario.dll
+C:\src\2022\activates\ativFacul\ativFacul2\bin\Debug\net6.0\Ternario.pdb
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\Ternario.csproj.AssemblyReference.cache
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\Ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\Ternario.AssemblyInfoInputs.cache
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\Ternario.AssemblyInfo.cs
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\Ternario.csproj.CoreCompileInputs.cache
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\Ternario.dll
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\refint\Ternario.dll
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\Ternario.pdb
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\Ternario.genruntimeconfig.cache
+C:\src\2022\activates\ativFacul\ativFacul2\obj\Debug\net6.0\ref\Ternario.dll
